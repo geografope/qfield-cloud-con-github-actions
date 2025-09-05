@@ -1,6 +1,6 @@
 <img src="img/banner.jpg">
 
-✨ En este repositorio 📁 encontrarás una guía detallada de como automatizar 📝📍🗺️ reportes georreferenciados usando las bondades que brinda la plataforma de **GitHub** en especial `GitHub Actions` junto con una plantilla personalizada en `Quarto` asociado a un formulario implementado en `Qfieldcloud`.
+✨ En este repositorio 📁 encontrarás una guía detallada de como automatizar 📝📍🗺️ reportes georreferenciados usando las bondades que brinda la plataforma de **GitHub**, en especial `GitHub Actions` junto con una plantilla personalizada en `Quarto` asociado a un formulario implementado en `Qfieldcloud`.
 
 ¿Asombroso, verdad? 🤓☝️
 
@@ -10,13 +10,13 @@ Para este video usaremos la siguiente herramientas 👇:
 
 - [Quarto](https://quarto.org/): Sistema moderno open source para la publicación científica y técnica de documentos dinámicos, sitios webs, libros, etc.
 
-- [Qfieldcloud](https://qfield.cloud/): Plataforma que permite alojar,dar seguimiento, sincronizar y fusionar formularios desarrollados en qfield.
+- [Qfieldcloud](https://qfield.cloud/): Plataforma que permite alojar, dar seguimiento, sincronizar y fusionar formularios desarrollados en [qfield](https://qfield.org/).
 
 - [QGIS](https://www.qgis.org/): Software de Sistema de Información Geográfica libre y de código abierto que permite manipular, editar, analizar y visualizar datos espaciales.
 
 - [Python](https://www.python.org/): Lenguaje de programación de alto nivel orientado a objetos y funcional.
 
-- [GitHub Actions](https://docs.github.com/es/actions/get-started/understand-github-actions): Plataforma que te permite automatizar tus flujos de trabajo dentro del marco de ciclo de vida del desarrollo de software.
+- [GitHub Actions](https://docs.github.com/es/actions/get-started/understand-github-actions): Plataforma que te permite automatizar flujos de trabajo dentro del marco de ciclo de vida del desarrollo de software.
 
 ## ⚫ Consideraciones
 
@@ -28,6 +28,7 @@ Para este video usaremos la siguiente herramientas 👇:
 |------|----------------
 | GitHub (free) | Ilimitado
 | GitHub (privado) | 500 MB
+
 Fuente: [GitProtect, 2025](https://gitprotect.io/blog/github-storage-limits/)
 
 ### Límites de paso de archivos en GitHub
@@ -38,6 +39,7 @@ Fuente: [GitProtect, 2025](https://gitprotect.io/blog/github-storage-limits/)
 |GitHub Pro	| 2GB|
 |GitHub Team	| 4GB|
 |GitHub Enterprise Cloud| 5GB|
+
 Fuente: [GitHub Docs, 2025](https://docs.github.com/es/repositories/working-with-files/managing-large-files/about-git-large-file-storage)
 
 > [!NOTE]
@@ -53,6 +55,7 @@ Fuente: [GitHub Docs, 2025](https://docs.github.com/es/repositories/working-with
 |GitHub Gratis| para organizaciones	|500 MB|	2.000
 |Equipo de GitHub|	2GB|	3.000
 |GitHub Enterprise| Cloud	50 GB|	50.000
+
 Fuente: [GitHub Docs, 2025](https://docs.github.com/en/billing/concepts/product-billing/github-actions#included-storage-and-minutes)
 
 
