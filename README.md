@@ -1,22 +1,22 @@
 <img src="img/banner.jpg">
 
-✨ En este repositorio 📁 encontrarás una guía detallada de como automatizar 📝📍🗺️ reportes georreferenciados usando las bondades que brinda la plataforma de **GitHub**, en especial `GitHub Actions` junto con una plantilla personalizada en `Quarto` asociado a un formulario implementado en `Qfieldcloud`.
+✨ En este repositorio 📁 encontrarás una guía detallada de como automatizar 📝📍🗺️ reportes georreferenciados usando las bondades que brinda la plataforma de **GitHub**, en especial 🤖 `GitHub Actions` junto con una plantilla personalizada en `Quarto` asociado a un 🌍📲 formulario implementado en `Qfieldcloud`.
 
 ¿Asombroso, verdad? 🤓☝️
 
 Para este video usaremos la siguiente herramientas 👇:
 
-- [Positron](https://positron.posit.co/): Interfaz de Desarrollo Integrado (IDE) para ciencia de datos.
+- [**Positron**](https://positron.posit.co/): Interfaz de Desarrollo Integrado (IDE) para ciencia de datos.
 
-- [Quarto](https://quarto.org/): Sistema moderno open source para la publicación científica y técnica de documentos dinámicos, sitios webs, libros, etc.
+- [**Quarto**](https://quarto.org/): Sistema moderno open source para la publicación científica y técnica de documentos dinámicos, sitios webs, libros, etc.
 
-- [Qfieldcloud](https://qfield.cloud/): Plataforma que permite alojar, dar seguimiento, sincronizar y fusionar formularios desarrollados en [qfield](https://qfield.org/).
+- [**Qfieldcloud**](https://qfield.cloud/): Plataforma que permite alojar, dar seguimiento, sincronizar y fusionar formularios desarrollados en [qfield](https://qfield.org/).
 
-- [QGIS](https://www.qgis.org/): Software de Sistema de Información Geográfica libre y de código abierto que permite manipular, editar, analizar y visualizar datos espaciales.
+- [**QGIS**](https://www.qgis.org/): Software de Sistema de Información Geográfica libre y de código abierto que permite manipular, editar, analizar y visualizar datos espaciales.
 
-- [Python](https://www.python.org/): Lenguaje de programación de alto nivel orientado a objetos y funcional.
+- [**Python**](https://www.python.org/): Lenguaje de programación de alto nivel orientado a objetos y funcional.
 
-- [GitHub Actions](https://docs.github.com/es/actions/get-started/understand-github-actions): Plataforma que te permite automatizar flujos de trabajo dentro del marco de ciclo de vida del desarrollo de software.
+- [**GitHub Actions**](https://docs.github.com/es/actions/get-started/understand-github-actions): Plataforma que te permite automatizar flujos de trabajo dentro del marco de ciclo de vida del desarrollo de software.
 
 ## ⚫ Consideraciones
 
