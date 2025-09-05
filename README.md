@@ -61,12 +61,15 @@ Fuente: [GitHub Docs, 2025](https://docs.github.com/en/billing/concepts/product-
 
 ## ⚫ Pasos a realizar
 
-Para este tutorial vamos a realizar los siguientes pasos:
+Para este tutorial vamos a seguir los siguientes procesos :
 
-1. Creación de formulario en QfieldCloud.
-2. Desarollo de una plantilla modelo de reporte
-3. Script de python para la obtención de datos de QfieldCloud
-4. Automatizar el reporte con GitHub Actions
+1. Creación de formulario en QGIS y QfieldCloud.
+
+2. Desarollo de una plantilla modelo de reporte en quarto.
+
+3. Implementación de un script en python que permite obtener los datos almacenados en QfieldCloud.
+
+4. Automatizar el renderizado del reporte con GitHub Actions.
 
 Todo el proceso desarrollado esta explicado al detalle en el siguiente video de YouTube 🎥.
 
