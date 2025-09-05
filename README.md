@@ -6,17 +6,68 @@
 
 Para este video usaremos la siguiente herramientas 👇:
 
-- [Positron]()
-- [Quarto]()
-- [Qfieldcloud]()
+- [Positron](https://positron.posit.co/): Interfaz de Desarrollo Integrado (IDE) para ciencia de datos.
+
+- [Quarto](https://quarto.org/): Sistema moderno open source para la publicación científica y técnica de documentos dinámicos, sitios webs, libros, etc.
+
+- [Qfieldcloud](https://qfield.cloud/): Plataforma que permite alojar,dar seguimiento, sincronizar y fusionar formularios desarrollados en qfield.
+
 - [QGIS](https://www.qgis.org/): Software de Sistema de Información Geográfica libre y de código abierto que permite manipular, editar, analizar y visualizar datos espaciales.
-- [Python]()
+
+- [Python](https://www.python.org/): Lenguaje de programación de alto nivel orientado a objetos y funcional.
+
+- [GitHub Actions](https://docs.github.com/es/actions/get-started/understand-github-actions): Plataforma que te permite automatizar tus flujos de trabajo dentro del marco de ciclo de vida del desarrollo de software.
+
+## ⚫ Consideraciones
+
+
+
+### Límite de almacenamiento en GitHub
+
+| Plan | Almacenamiento
+|------|----------------
+| GitHub (free) | Ilimitado
+| GitHub (privado) | 500 MB
+Fuente: [GitProtect, 2025](https://gitprotect.io/blog/github-storage-limits/)
+
+### Límites de paso de archivos en GitHub
+
+|Plan	|Tamaño de archivo	|
+|-----|-------------------
+|GitHub gratis| 2GB|
+|GitHub Pro	| 2GB|
+|GitHub Team	| 4GB|
+|GitHub Enterprise Cloud| 5GB|
+Fuente: [GitHub Docs, 2025](https://docs.github.com/es/repositories/working-with-files/managing-large-files/about-git-large-file-storage)
+
+> [!NOTE]
+> GitHub permite subir archivos menores a **50MB** sin ningun problema, pero si pasa este tamaño saldrá mensajes de advertencias; sin embargo, si el peso es superior a los **100MB**, este se bloqueara automáticamente recomendado utilizar almacenamiento de archivos de gran tamaño de Git [(Git LFS)](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage).
+
+
+### Facturación para GitHub Actions
+
+|Plan	|Almacenamiento	|Minutos (por mes)
+|-----|---------------|-----------------
+|GitHub gratis (repositorio privado)|	500 MB|	2.000
+|GitHub Pro|	1 GB	|3.000
+|GitHub Gratis| para organizaciones	|500 MB|	2.000
+|Equipo de GitHub|	2GB|	3.000
+|GitHub Enterprise| Cloud	50 GB|	50.000
+Fuente: [GitHub Docs, 2025](https://docs.github.com/en/billing/concepts/product-billing/github-actions#included-storage-and-minutes)
+
 
 ## ⚫ Pasos a realizar
 
+Para este tutorial vamos a realizar los siguientes pasos:
+
+1. Creación de formulario en QfieldCloud.
+2. Desarollo de una plantilla modelo de reporte
+3. Script de python para la obtención de datos de QfieldCloud
+4. Automatizar el reporte con GitHub Actions
+
 Todo el proceso desarrollado esta explicado al detalle en el siguiente video de YouTube 🎥.
 
-[![Watch the video](https://img.youtube.com/vi/sOSiwO7qBts/0.jpg)](https://www.youtube.com/watch?v=sOSiwO7qBts)
+[![Watch the video](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
 
 
 ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de código abierto. 🌟🌍 👇
@@ -28,3 +79,8 @@ Todo el proceso desarrollado esta explicado al detalle en el siguiente video de 
 
 ## ⚫ Referencias:
 
+- *Tomasz Lisowski, GitHub Storage Limits, 2025, https://gitprotect.io/blog/github-storage-limits/*
+
+- *Documentación de GitHub, 2025, https://docs.github.com/es*
+
+- *Understand GitHub Actions, 2025, https://docs.github.com/es/actions/get-started/understand-github-actions*
