@@ -1,4 +1,4 @@
-<img src="img/banner.jpg">
+<img src="img/banner.png">
 
 ✨ En este repositorio 📁 encontrarás una guía detallada de como automatizar 📝📍🗺️ reportes georreferenciados usando las bondades que brinda la plataforma de **GitHub**, en especial 🤖 `GitHub Actions` junto con una plantilla personalizada en `Quarto` asociado a un 🌍📲 formulario implementado en `Qfieldcloud`.
 
@@ -31,7 +31,7 @@ Para este video usaremos la siguiente herramientas 👇:
 
 Fuente: [GitProtect, 2025](https://gitprotect.io/blog/github-storage-limits/)
 
-### Límites de paso de archivos en GitHub
+### Límite de paso de archivos en GitHub
 
 |Plan	|Tamaño de archivo	|
 |-----|-------------------
@@ -63,9 +63,9 @@ Fuente: [GitHub Docs, 2025](https://docs.github.com/en/billing/concepts/product-
 
 Para este tutorial vamos a seguir los siguientes procesos :
 
-1. Creación de formulario en QGIS y QfieldCloud.
+1. Crear un formulario básico en QGIS y subir a QfieldCloud.
 
-2. Desarollo de una plantilla modelo de reporte en quarto.
+2. Desarollar una plantilla base para el reporte en quarto.
 
 3. Implementación de un script en python que permite obtener los datos almacenados en QfieldCloud.
 
