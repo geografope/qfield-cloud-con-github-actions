@@ -20,7 +20,20 @@ Para este video usaremos la siguiente herramientas 👇:
 
 ## ⚫ Consideraciones
 
+### Facturación en QfieldCloud
 
+| Característica                              | Comunidad | Pro                 | Organización              | Nube privada   |
+|---------------------------------------------|-----------|---------------------|---------------------------|----------------|
+| Proyectos públicos                           | ilimitado | ilimitado           | ilimitado                 | ilimitado      |
+| Proyectos privados                           | ilimitado | ilimitado           | ilimitado                 | ilimitado      |
+| Colaboración en proyectos públicos           | Sí        | Sí                  | Sí                        | Sí             |
+| Colaboración en proyectos privados           | No        | 1 colaborador Pro   | dentro de la organización | a medida       |
+| Alojamiento de datos incluido                | 100 MB    | 1 GB                | 1 GB                      | a medida       |
+| Versiones de archivos                        | 3         | 10                  | 10                        | a medida       |
+| Proyectos basados en archivos                | Sí        | Sí                  | Sí                        | Sí             |
+| Soporte de capas PostGIS sin conexión (offline) | No     | Sí                  | Sí                        | Sí             |
+
+Fuente: [Qfieldcloud Pricing, 2025](https://qfield.cloud/pricing/)
 
 ### Límite de almacenamiento en GitHub
 
