@@ -104,3 +104,4 @@ Todo el proceso desarrollado esta explicado al detalle en el siguiente video de 
 
 - *Understand GitHub Actions, 2025, https://docs.github.com/es/actions/get-started/understand-github-actions*
 
+- *Rajdeep Singh, Learn to Use GitHub Actions: a Step-by-Step Guide, 2025, https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/*
